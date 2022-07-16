@@ -7,6 +7,15 @@
 
 - 📫 How to reach me **tomasarreguib@gmail.com**
 
+```js
+const technologies = {
+  lenguages: ["Javascript", "Typescript"],
+  db: ["Mongodb", "PostgreSQL"],
+  backend: ["NodeJS", "Express"],
+  frontend: ["React", "Redux", "CSS", "HTML5"]
+}
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arreguitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arreguitb" height="30" width="40" /></a>
