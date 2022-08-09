@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Typescript and NextJS**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **tomasarreguib@gmail.com**
 
