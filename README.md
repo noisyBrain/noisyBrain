@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
 <h3 align="center">A passionate Full-Stack Developer From Argentina!</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my shift app**
 
-- 🌱 I’m currently learning **OOP with Typescript**
+- 🌱 I’m currently learning **NestJs**
 
 - 📫 How to reach me **tomasarreguib@gmail.com**
 
@@ -11,6 +11,8 @@
 const technologies = {
   lenguages: ["Javascript", "Typescript"],
   db: ["Mongodb", "PostgreSQL"],
+  ORM: ["Sequelize", "Prisma"],
+  ODM: ["Mongoose", "Typegoose"],
   backend: ["NodeJS", "Express"],
   frontend: ["React", "Redux", "CSS", "HTML5"]
 }
