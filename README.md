@@ -13,7 +13,7 @@ const technologies = {
   db: ["Mongodb", "PostgreSQL"],
   ORM: ["Sequelize", "Prisma"],
   ODM: ["Mongoose", "Typegoose"],
-  backend: ["NodeJS", "Express"],
+  backend: ["NodeJS", "Express", "NestJs"],
   frontend: ["React", "Redux", "CSS", "HTML5"]
 }
 ```
