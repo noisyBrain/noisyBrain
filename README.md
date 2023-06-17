@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tomasarreguib@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yE5l-AxJ4ry_MCRz3hmwlr_VNQpLTtar/view](https://drive.google.com/file/d/1yE5l-AxJ4ry_MCRz3hmwlr_VNQpLTtar/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1yE5l-AxJ4ry_MCRz3hmwlr_VNQpLTtar/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
