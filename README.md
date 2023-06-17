@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Šhifts & neovim-colaborativo**
+- 🔭 I’m currently working on **ABM Book Project**
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **BDD & TDD**
 
 - 💬 Ask me about **NodeJs, Typescript, APIRest**
 
