@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h3 align="center">A backend developer 👨‍💻.</h3>
+<h3 align="center">Backend developer 👨‍💻.</h3>
 
 
 
