@@ -12,41 +12,56 @@
 
 ### Languages and Tools:
 
-<table>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="NestJS" height="60"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest"></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.linux.org/">Linux</a></td>
-    <td><a href="https://www.typescriptlang.org/">TypeScript</a></td>
-    <td><a href="https://www.python.org">Python</a></td>
-    <td><a href="https://nodejs.org">Node.js</a></td>
-    <td><a href="https://nestjs.com/">NestJS</a></td>
-    <td><a href="https://www.mongodb.com/">MongoDB</a></td>
-    <td><a href="https://www.postgresql.org">PostgreSQL</a></td>
-    <td><a href="https://www.docker.com/">Docker</a></td>
-    <td><a href="https://jestjs.io">Jest</a></td>
-  </tr>
+<table width="420px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="100px" align="center">
+                <span><strong>Linux</strong></span><br>
+                <a href="https://www.linux.org/"><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>TypeScript</strong></span><br>
+                <a href="https://www.typescriptlang.org/"><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" /></a>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>Python</strong></span><br>
+                <a href="https://www.python.org"><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></a>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>Node.js</strong></span><br>
+                <a href="https://nodejs.org"><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" /></a>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>NestJS</strong></span><br>
+                <a href="https://nestjs.com/"><img height=60 src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="NestJS" /></a>
+            </td>
+        </tr>
+        <tr valign="bottom">
+            <td width="100px" align="center">
+                <span><strong>MongoDB</strong></span><br>
+                <a href="https://www.mongodb.com/"><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" /></a>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>PostgreSQL</strong></span><br>
+                <a href="https://www.postgresql.org"><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" /></a>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>MySQL</strong></span><br>
+                <img height=60 src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" />
+            </td>
+            <td width="100px" align="center">
+                <span><strong>Docker</strong></span><br>
+                <a href="https://www.docker.com/"><img height=60 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" /></a>
+            </td>
+            <td width="100px" align="center">
+                <span><strong>Jest</strong></span><br>
+                <a href="https://jestjs.io"><img height=60 src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" /></a>
+            </td>
+        </tr>
+    </tbody>
 </table>
+
+
 
 
 
